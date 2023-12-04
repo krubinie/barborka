@@ -1,0 +1,14 @@
+body {
+	background-image: url("tlo.png");
+	background-color: #cccccc;
+}
+
+#id {
+	position: absolute;
+	left: 1200px;
+}
+#au {
+	position: absolute;
+	top: 550px;
+	left: 1255px;
+}
